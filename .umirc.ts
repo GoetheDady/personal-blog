@@ -5,6 +5,7 @@ export default defineConfig({
   mode: 'site',
   locales: [['zh-CN', '中文'], ['mt-MS', '火星文']],
   publicPath: '/personal-blog/',
+  base: '/personal-blog/',
   description: '五渣的龟仙屋，记录自己的学习过程！',
   navs: {
     // 多语言 key 值需与 locales 配置中的 key 一致
