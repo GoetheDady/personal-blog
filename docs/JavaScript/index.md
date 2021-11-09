@@ -1,9 +1,9 @@
 ---
 nav:
-  title: 帮助
+  title: js首页
   order: 1
 ---
 
-# 帮助
+# js首页
 
 Balabala...

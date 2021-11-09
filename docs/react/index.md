@@ -1,9 +1,9 @@
 ---
 nav:
-  title: 帮助
+  title: react首页
   order: 1
 ---
 
-# 帮助
+# react首页
 
 Balabala...

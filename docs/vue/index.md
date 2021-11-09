@@ -1,9 +1,9 @@
 ---
 nav:
-  title: 帮助
+  title: vue首页
   order: 1
 ---
 
-# 帮助
+# vue首页
 
 Balabala...

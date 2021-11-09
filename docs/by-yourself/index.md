@@ -1,9 +1,9 @@
 ---
 nav:
-  title: 帮助
+  title: 手写首页
   order: 1
 ---
 
-# 帮助
+# 手写首页
 
 Balabala...
